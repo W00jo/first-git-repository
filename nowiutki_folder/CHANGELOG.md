@@ -1,6 +1,6 @@
 # Dzień z życia
 
-Opis obecnego czwartku
+Opis obecnego czwartku.
 
 ## 2025-12-18
 
